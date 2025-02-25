@@ -17,6 +17,9 @@ import logging.config
 from app.commands import CommandHandler
 from app.commands import Command
 
+
+logs_dir = 'logs'
+os.makedirs(logs_dir, exist_ok=True)
 # Load the logging configuration
 logging.config.fileConfig('logging.conf')
 
