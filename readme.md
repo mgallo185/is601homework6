@@ -1,4 +1,4 @@
-# Homework 5 by Michael Gallo
+# Homework 6 by Michael Gallo
 
 # scrapped original homework 3 due to how different my code was to professors example
 
