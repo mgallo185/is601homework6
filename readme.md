@@ -24,3 +24,6 @@
 # useful testing commands:
 1. coverage report -m checks coverage of lines
 2. pytest --cov=app --cov-report=term-missing
+# screenshot of my .env file in my local enviroment, it shouldnt be on github
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/03ae9cf2-9f8a-4329-8ec1-ff23d39bd099" />
+
